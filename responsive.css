@@ -1,0 +1,107 @@
+/* MEDIA QUERIES */
+
+
+@media (min-width: 400px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 15em auto 0;
+  }
+}
+
+@media (min-width: 500px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 13em auto 0;
+  }
+}
+
+@media (min-width: 767px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 18em auto 0;
+  }
+}
+
+@media (min-width: 820px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 21.5em auto 0;
+  }
+}
+
+@media (min-width: 912px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 26em auto 0;
+  }
+}
+
+
+@media (min-width: 1023px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 13em auto 0;
+  }
+}
+
+@media (min-width: 1200px){
+  main{
+      background: url(./src/images/Desktop.svg) no-repeat center/cover;
+      background-color: #121214;
+      min-height: 810px;
+      height: 100vh;
+      width: 100%;
+  }
+  
+  .avatar{
+      margin: 13em auto 0;
+  }
+}
+
+
+
+
+
+
